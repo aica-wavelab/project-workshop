@@ -9,6 +9,10 @@ permalink: /
 # AI in culture and arts - project workshop
 {: .no_toc}
 
+<!-- Insert large image -->
+
+<img src="/assets/images/finalPres_flyerEN.png" alt="Flyer about the final event on AI in Culture and arts" width="100%">
+
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/SVcsDDABEkM?si=JcI7kCw3WrDUQ8lj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 <!-- <iframe src="https://player.vimeo.com/video/868346000?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="100%" height="315" frameborder="0" allow=" picture-in-picture" title="AICA - project course"></iframe> -->
