@@ -11,7 +11,7 @@ permalink: /
 
 <!-- Insert large image -->
 
-<img src="/assets/images/finalPres_flyerEN.png" alt="Flyer about the final event on AI in Culture and arts" width="100%">
+<img src="assets/images/finalPres_flyerEN.png" alt="Flyer about the final event on AI in Culture and arts" width="100%">
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/SVcsDDABEkM?si=JcI7kCw3WrDUQ8lj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
