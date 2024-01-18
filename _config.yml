@@ -195,7 +195,7 @@ defaults:
     values:
       layout: staffer
       height: 300
-      subpath: 'assets/images/'
+      subpath: '/assets/images/'
       width: 300
   - scope:
       path: ''
