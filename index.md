@@ -23,25 +23,30 @@ permalink: /
 ## 📰 Announcements
 {: .no_toc }
 
-11.01.2023 - Get ready! The third and last bloc of the course will take place on the 5th, 6th, and 7th of February 2024. You will be asked to demonstrate your MVP to our team of experts.
+19.02.2024 - Final stretch! The final event will take place on the 21th of February 2024. Looking forward to seeing your projects!
 
-11.01.2023 - 📹 Please [upload your minimal viable prototype (MVP) video](https://syncandshare.lrz.de/preparefilelink?folderID=2AJY8oqisdFWY5XY39rqv) before the 26th January 2024, 23:59.
+19.02.2024 - Please update your final 10-page essay on [the following link](https://syncandshare.lrz.de/preparefilelink?folderID=2HS5byKiwmQvgv7HJYVDp) before the 21st of February, 23:59.
 
-11.01.2024 - We watched your proof of concept videos! Congrats to all for your progress. Please find [our feedback](/docs/feedback/poc_feedback) for the next phase.
+
+<!-- 11.01.2023 - Get ready! The third and last bloc of the course will take place on the 5th, 6th, and 7th of February 2024. You will be asked to demonstrate your MVP to our team of experts. -->
+
+<!-- 11.01.2023 - 📹 Please [upload your minimal viable prototype (MVP) video](https://syncandshare.lrz.de/preparefilelink?folderID=2AJY8oqisdFWY5XY39rqv) before the 26th January 2024, 23:59. -->
+
+<!-- 11.01.2024 - We watched your proof of concept videos! Congrats to all for your progress. Please find [our feedback](/content/feedback/poc_feedback) for the next phase. -->
 
 <!-- 12.12.2023 - 📹 Don't forget to [upload your project's proof of concept video](https://syncandshare.lrz.de/preparefilelink?folderID=28Tg5PGQ2B1KQEbG4GCCD) before the 22nd of December, 23:59. -->
 
-<!-- 11.12.2023 - Summary of the office hour meetings are available [here](/docs/feedback/office_hours_summary). -->
+<!-- 11.12.2023 - Summary of the office hour meetings are available [here](/content/feedback/office_hours_summary). -->
 
 <!-- 19.11.2023 - Visit of [Haus der Kunst](https://www.hausderkunst.de/) on Friday 24.11.2023 at 16:00. If interested to join, please fill [this form](https://forms.gle/zAiruR7BgL67Fzcv5). We'll meet on the steps of Haus der Kunst at 16:00 -->
 
 <!-- 19.11.2023 - Test your knowledge on machine learning fundamentals with [this optional test](/assets/pdf/test_ml_fundamentals.pdf). A correction session will be organized during the 2nd or 3rd bloc. -->
 
-<!-- 15.11.2023 - Personalized feedback for each group is available [here](/docs/feedbacl/group_feedback). -->
+<!-- 15.11.2023 - Personalized feedback for each group is available [here](/content/feedbacl/group_feedback). -->
 
-<!-- 10.11.2023 - A complete list of tools is available in section [Tools and credits](/docs/credits/). -->
+<!-- 10.11.2023 - A complete list of tools is available in section [Tools and credits](/content/credits/). -->
 
-10.11.2023 - The presentation slides of the first bloc are [now available](https://syncandshare.lrz.de/getlink/fiByPXEJ9rS4yR42qToaSr/presentations_aica_2023.zip).
+<!-- 10.11.2023 - The presentation slides of the first bloc are [now available](https://syncandshare.lrz.de/getlink/fiByPXEJ9rS4yR42qToaSr/presentations_aica_2023.zip). -->
 
 
 ---
