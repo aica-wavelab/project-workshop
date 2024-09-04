@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Tools and credits
-description: Credit and attributions to the tools and techniques used in the tutorial
+title: Tools
+description: Tools and resources to support your project
 nav_order: 11
 ---
 

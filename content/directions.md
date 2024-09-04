@@ -16,6 +16,8 @@ function copyToClipboard(text) {
 }
 </script>
 
+The course will take place in two different locations: The [Wavelab](https://www.wavelab.io/) and [MUC.DAI](https://mucdai.hm.edu/index.de.html). Below you will find the addresses and directions to both locations.
+
 
 #  How to go to the Wavelab ?
 
@@ -46,7 +48,7 @@ function copyToClipboard(text) {
 3. The door to Wavelab is not automatic. Please **ring the bell** labeled Wavelab to gain entry.
 
 
-    <img src="{{ '/assets/images/direction_map.png' | relative_url }}" alt="Directions to the wavelab">
+    <img src="{{ '/assets/images/direction_map_wavelab.png' | relative_url }}" alt="Directions to the wavelab">
 
 ## Important Advice
 
@@ -54,3 +56,28 @@ The Wavelab is situated in the rear building of the **Israeli Consulate General 
 
 - Avoid lingering or standing on the sidewalk at Barerstraße 19; move close to the tram stop if you need to make a phone call or are waiting for someone.
 - If approached by GKI security personnel, promptly identify yourself as a guest of the Wavelab.
+
+
+#  How to go to MUC.DAI?
+
+{: .note-title }
+> Address
+>
+> Munich Center for Digital Sciences and AI (MUC.DAI),
+> Infanteriestraße 13, 
+> 80797 München
+
+<button onclick="copyToClipboard('Infanteriestraße 13, 80797 München')">Copy Address</button>{: .btn }
+
+## Arrival methods
+
+### Bicycle
+
+- Bicycle parking is available on the campus.
+
+### Public Transportation
+
+- **Subway**: U2, Josephsplatz or Hohenzollernplatz stations.
+- **Tram and bus**: Leonrodplatz
+
+    <img src="{{ '/assets/images/direction_map_mucdai.png' | relative_url }}" alt="Directions to MUC.DAI">
