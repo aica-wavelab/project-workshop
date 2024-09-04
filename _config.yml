@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "AICA project workshop"
-logo: "assets/images/logos/aica_logo.png"
+logo: "assets/images/logos/aica_logo_original_original.png"
 favicon_ico: "assets/images/favicon.ico"
 description: "Artificial Intelligence in Culture and Arts (AICA): Tools and tutorials for the project workshop at the Wavelab"
 author: Téo Sanchez, Benedikt Zönnchen
