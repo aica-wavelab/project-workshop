@@ -61,14 +61,37 @@ The Digitization College "Artificial Intelligence in Culture and Arts" (AICA) ai
 
 ## What is the project workshop ?
 
-The AICA Project Workshop will be hosted at the Wavelab, in the Winter Semester 2024/2025 **starting early November 2023**.
+The AICA Project Workshop will be hosted at the Wavelab, in the Winter Semester 2024/2025 **starting early November 2024**.
 This course will teach you how to build and apply AI and machine learning for the cultural and artistic domains.
+
+
 
 You will develop **your own project** at the interface of AI in art and culture, spanning from an intelligent or interactive tool, an artistic performance, or anything in between that applies to the creative and cultural industries.
 
 You will form **a team with students from HM and HMTM** with complementary expertise: computer science, data science, design, music, theater, or cultural management. 
 
 You will be accompanied **on site** by technology and culture experts, and coached with [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) practices.
+
+## Provisional schedule
+
+Block 1:
+
+- 6th of November 2024 at MUC.DAI  (Infanteriestraße 13, 80797 München, Room N.017)
+- 7th of November 2024 at MUC.DAI  (Infanteriestraße 13, 80797 München, Room N.017)
+
+Block 2:
+
+- 11th of December 2024 at the Wavelab (Barerstraße 19, 80333 München)
+- 12th of December 2024 at the Wavelab (Barerstraße 19, 80333 München)
+
+Block 3:
+
+- 8th of January 2025 at the Wavelab (Barerstraße 19, 80333 München)
+- 9th of January 2025 at the Wavelab (Barerstraße 19, 80333 München)
+
+Final event:
+
+- 30th of January 2025 at MUC.DAI  (Infanteriestraße 13, 80797 München, Room N.017)
 
 ## Evaluation and ECTS
 
