@@ -2,7 +2,7 @@
 layout: default
 title: Directions and useful infos
 nav_exclude: false
-nav_order: 2
+nav_order: 3
 ---
 
 <script>

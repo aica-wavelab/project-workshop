@@ -1,6 +1,6 @@
-<!-- ---
-name: Dr. Esther Fee Feichtner (HMTM)
-role: AICA project leader
-website: https://www.linkedin.com/in/dr-esther-fee-feichtner-00199881/
+---
+name: Dr. Esther Fee Reinhardt
+role: Lecturers and consultants
+website: https://www.linkedin.com/in/dr-esther-fee-reinhardt/
 photo: people/esther.jpg
---- -->
+---
