@@ -244,153 +244,125 @@
     
     "relUrl": "/content/feedback/poc_feedback/"
   },"35": {
-    "doc": "Schedule",
-    "title": "Schedule",
-    "content": "Coming soon… . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
-    "url": "/project-workshop/content/schedule/",
+    "doc": "Provisional schedule",
+    "title": "Provisional schedule",
+    "content": "Please find the provisional schedule of the course below. The schedule is subject to change in the course of the semester. Download provisional schedule . ",
+    "url": "/project-workshop/content/program/",
     
-    "relUrl": "/content/schedule/"
+    "relUrl": "/content/program/"
   },"36": {
     "doc": "Schedule",
-    "title": "Monday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "title": "Schedule",
+    "content": "Coming soon… . &lt;li class=\"schedule-day \"&gt; &lt;h2 class=\"schedule-header no_anchor\"&gt;23th of April&lt;/h2&gt; &lt;ul class=\"schedule-events\" style=\"height: 1400px\"&gt; &lt;li class=\"schedule-event brief\" style=\"top: 140px; height: 70px;\"&gt; &lt;div class=\"name\"&gt;Brief : Module introduction&lt;/div&gt; &lt;div class=\"time\"&gt;10:00–10:30&lt;/div&gt; &lt;/li&gt; &lt;li class=\"schedule-event lecture\" style=\"top: 210px; height: 210px;\"&gt; &lt;div class=\"name\"&gt;Lecture : Introduction to machine learning&lt;/div&gt; &lt;div class=\"time\"&gt;10:30–12:00&lt;/div&gt; &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; . &lt;/ul&gt; &lt;/div&gt; . –&gt; . ",
     "url": "/project-workshop/content/schedule/",
     
     "relUrl": "/content/schedule/"
   },"37": {
-    "doc": "Schedule",
-    "title": "Tuesday",
-    "content": "| ",
-    "url": "/project-workshop/content/schedule/",
-    
-    "relUrl": "/content/schedule/"
-  },"38": {
-    "doc": "Schedule",
-    "title": "Wednesday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
-    "url": "/project-workshop/content/schedule/",
-    
-    "relUrl": "/content/schedule/"
-  },"39": {
-    "doc": "Schedule",
-    "title": "Thursday",
-    "content": "| ",
-    "url": "/project-workshop/content/schedule/",
-    
-    "relUrl": "/content/schedule/"
-  },"40": {
-    "doc": "Schedule",
-    "title": "Friday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . --> ",
-    "url": "/project-workshop/content/schedule/",
-    
-    "relUrl": "/content/schedule/"
-  },"41": {
     "doc": "Instructors",
     "title": "AICA project leader",
     "content": "Mariya Dzhimova (HMTM) . ",
     "url": "/project-workshop/content/staff/#aica-project-leader",
     
     "relUrl": "/content/staff/#aica-project-leader"
-  },"42": {
+  },"38": {
     "doc": "Instructors",
     "title": "Scientific instructors",
     "content": "Scientific instructors prepared the technical content hosted on this website. They can guide you through the tutorials and your final project implementation. Dr. Benedikt Zönnchen (HM - MUC.DAI) . Dr. Téo Sanchez (HM - MUC.DAI) . ",
     "url": "/project-workshop/content/staff/#scientific-instructors",
     
     "relUrl": "/content/staff/#scientific-instructors"
-  },"43": {
+  },"39": {
     "doc": "Instructors",
     "title": "Art and culture instructors",
     "content": "Artistic instructors can guide you through the artistic and cultural aspects of your project. Helena Held (HMTM) . ",
     "url": "/project-workshop/content/staff/#art-and-culture-instructors",
     
     "relUrl": "/content/staff/#art-and-culture-instructors"
-  },"44": {
+  },"40": {
     "doc": "Instructors",
     "title": "Lecturers and consultants",
     "content": "External artists and experts will give lectures and be available on-site to advice you on your project. ",
     "url": "/project-workshop/content/staff/#lecturers-and-consultants",
     
     "relUrl": "/content/staff/#lecturers-and-consultants"
-  },"45": {
+  },"41": {
     "doc": "Instructors",
     "title": "Teaching assistants",
     "content": "Students from HM and HMTM will also be present on-site to help organizing the course. Tanja Huber (HM) . ",
     "url": "/project-workshop/content/staff/#teaching-assistants",
     
     "relUrl": "/content/staff/#teaching-assistants"
-  },"46": {
+  },"42": {
     "doc": "Instructors",
     "title": "Instructors",
     "content": " ",
     "url": "/project-workshop/content/staff/",
     
     "relUrl": "/content/staff/"
-  },"47": {
+  },"43": {
     "doc": "Subscription",
     "title": "Enroll now! 💥",
     "content": "Please follow these steps to enroll in the class. ",
     "url": "/project-workshop/content/subscription/#enroll-now-",
     
     "relUrl": "/content/subscription/#enroll-now-"
-  },"48": {
+  },"44": {
     "doc": "Subscription",
     "title": "1. Express your interest",
     "content": "Express your interest to Dr. Téo Sanchez directly (teo [dot] sanchez [at] hm [dot] edu) with a short motivation statement. ",
     "url": "/project-workshop/content/subscription/#1-express-your-interest",
     
     "relUrl": "/content/subscription/#1-express-your-interest"
-  },"49": {
+  },"45": {
     "doc": "Subscription",
     "title": "2. Sign up on the administrative platform of your university",
     "content": "To validate the class and get the credits, you need to sign up to the class on the administrative platform of your university. Hochschule München University of applied sciences . Sign up on Nine Hochschule für Musik und Theater München . Sign up on eCampus ",
     "url": "/project-workshop/content/subscription/#2-sign-up-on-the-administrative-platform-of-your-university",
     
     "relUrl": "/content/subscription/#2-sign-up-on-the-administrative-platform-of-your-university"
-  },"50": {
+  },"46": {
     "doc": "Subscription",
     "title": "3. Sign up to the moodle platform",
     "content": "The moodle platform is open to both HM and HMTM students. It is not an administrative platform, but tool to exchange between students and teachers. It is meant to gather all institutional emails, submit and collect assigments, and publish grades. Sign up on Moodle NB: You can subscribe with and without HM credentials. Just select DFN-AAI/eduGAIN if you are not an HM student. ",
     "url": "/project-workshop/content/subscription/#3-sign-up-to-the-moodle-platform",
     
     "relUrl": "/content/subscription/#3-sign-up-to-the-moodle-platform"
-  },"51": {
+  },"47": {
     "doc": "Subscription",
     "title": "Subscription",
     "content": " ",
     "url": "/project-workshop/content/subscription/",
     
     "relUrl": "/content/subscription/"
-  },"52": {
+  },"48": {
     "doc": "Tools",
     "title": "Generalist tool for ML",
     "content": "Marcelle . Marcelle is a modular open source toolkit for programming interactive machine learning applications. Marcelle is built around components embedding computation and interaction that can be composed to form reactive machine learning pipelines and custom user interfaces. This architecture enables rapid prototyping and extension. Marcelle can be used to build interfaces to Python scripts, and it provides flexible data stores to facilitate collaboration between machine learning experts, designers and end users. Jules Françoise, Baptiste Caramiaux, Téo Sanchez. Marcelle: Composing Interactive Machine Learning Workflows and Interfaces. Annual ACM Symposium on User Interface Software and Technology (UIST ’21), Oct 2021, Virtual. DOI: 10.1145/3472749.3474734. PDF . Wekinator . The Wekinator is free, open source software that allows anyone to use machine learning to build new musical instruments, gestural game controllers, computer vision or computer listening systems, and more. The Wekinator allows users to build new interactive systems by demonstrating human actions and computer responses, instead of writing programming code. Fiebrink, R., &amp; Cook, P. R. (2010, January). The Wekinator: a system for real-time, interactive machine learning in music. In Proceedings of The Eleventh International Society for Music Information Retrieval Conference (ISMIR 2010)(Utrecht) (Vol. 3, pp. 2-1). ml-lib . ml-lib is a library of machine learning externals for Max and Pure Data. ml-lib is primarily based on the Gesture Recognition Toolkit by Nick Gillian ml-lib is designed to work on a variety of platforms including OS X, Windows, Linux, on Intel and ARM architectures. The goal of ml-lib is to provide a simple, consistent interface to a wide range of machine learning techniques in Max and Pure Data. Bullock, J., &amp; Momeni, A. (2015, May). Ml. lib: robust, cross-platform, open-source machine learning for max and pure data. In NIME (pp. 265-270). nn~ . nn~ is a Pd or Max/MSP external object that allows to load and run neural networks in real-time. It is based on the PyTorch C++ API and can load any network that can be exported from PyTorch to TorchScript. It can be used to load RAVE models. ",
     "url": "/project-workshop/content/tools/#generalist-tool-for-ml",
     
     "relUrl": "/content/tools/#generalist-tool-for-ml"
-  },"53": {
+  },"49": {
     "doc": "Tools",
     "title": "Specialized ML tools (audio, text, others…)",
     "content": "RAVE . Rave is a variational autoencoder for fast and high-quality neural audio synthesis developed by Antoine Caillon and Philippe Esling from IRCAM. Caillon, A., &amp; Esling, P. (2021). RAVE: A variational autoencoder for fast and high-quality neural audio synthesis. arXiv preprint arXiv:2111.05011. LangChain . LangChain is a framework for developing applications powered by language models. It enables applications that: . | Are context-aware: connect a language model to sources of context (prompt instructions, few shot examples, content to ground its response in, etc.) . | Reason: rely on a language model to reason (about how to answer based on provided context, what actions to take, etc.) . | . Flucoma . Combination of digital signal processing and machine learning. Connection to SuperCollider, PureData and Max. ",
     "url": "/project-workshop/content/tools/#specialized-ml-tools-audio-text-others",
     
     "relUrl": "/content/tools/#specialized-ml-tools-audio-text-others"
-  },"54": {
+  },"50": {
     "doc": "Tools",
     "title": "Generalist tools for audio and visual programming",
     "content": "Pure Data . Pure Data (or just “Pd”) is an open source visual programming language for multimedia. Pure Data allows you to create and manipulate audio systems using visual elements, rather than writing code. Think of it as building with virtual blocks – simply connect them together to design your unique audio setups. Plug Data . plugdata is a free/open-source visual programming environment based on pure-data. It is available for a wide range of operating systems, and can be used both as a standalone app, or as a VST3, LV2, CLAP or AU plugin. We recommend using Plug Data rather than Pure Data, as it provides a more user-friendly interface. SuperCollider . SuperCollider is a platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound. It is free and open source software available for Windows, macOS, and Linux. P5hs Processing Nannou . Visual Creative Coding, Coupling between Audio and Visual . TouchDesigner . Node-based visual programming language and environment for real-time interaction with different media . ",
     "url": "/project-workshop/content/tools/#generalist-tools-for-audio-and-visual-programming",
     
     "relUrl": "/content/tools/#generalist-tools-for-audio-and-visual-programming"
-  },"55": {
+  },"51": {
     "doc": "Tools",
     "title": "More AIArtists tools and ressources",
     "content": "AIartists . ",
     "url": "/project-workshop/content/tools/#more-aiartists-tools-and-ressources",
     
     "relUrl": "/content/tools/#more-aiartists-tools-and-ressources"
-  },"56": {
+  },"52": {
     "doc": "Tools",
     "title": "Tools",
     "content": " ",
