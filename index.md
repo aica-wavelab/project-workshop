@@ -97,7 +97,27 @@ Final event:
 
 You will earn **6 ECTS** for the validation of the course.
 
-The evaluation will be based on: **TO BE ANNOUNCED**
+The evaluation will be based on 100 points, distributed as follows:
+- 30 points for the careful completion of the assignements between blocks;
+- 20 points for the final presentation, on the 30th of January 2025: oral presence, slides quality, and clarity of the outcomes and dissemination;
+- 20 points for significance of the project outcomes and their potential impact on the cultural and artistic domains;
+- 20 points for the relevance and significiance of the project's dissemination;
+- 10 points for dedication and attitude: attendance, proactivity, team spirit, and respect. Additional penalties may be applied in case of deliberate misconduct that would harm the team or the course.
+
+The 100 points will then be converted to the German grading system according to the table below:
+
+| Points     | German system | Description                |
+|------------|---------------|----------------------------|
+| 90 - 100   | 1.0           | Very good (Sehr gut)        |
+| 85 - 89    | 1.3           | Very good (Sehr gut)        |
+| 80 - 84    | 1.7           | Good (Gut)                 |
+| 75 - 79    | 2.0           | Good (Gut)                 |
+| 70 - 74    | 2.3           | Satisfactory (Befriedigend) |
+| 65 - 69    | 2.7           | Satisfactory (Befriedigend) |
+| 60 - 64    | 3.0           | Satisfactory (Befriedigend) |
+| 55 - 59    | 3.3           | Sufficient (Ausreichend)    |
+| 50 - 54    | 3.7           | Sufficient (Ausreichend)    |
+| Below 50   | 5.0           | Fail (Nicht ausreichend)    |
 
 We encourage students to extend and capitalize on their projects to derive a bachelor or master thesis.
 
