@@ -93,4 +93,4 @@ The Wavelab is situated in the rear building of the **Israeli Consulate General 
 
 - [Wais Küche](https://maps.app.goo.gl/sg72kMG1cmBGqbwx8): One of the closest place (6min by foot). It is a small Vietnamese canteen.
 - [Student's MENSA Arcisstraße](https://maps.app.goo.gl/wCPJgsRZqX6GTocp9): The closest student's MENSA (7min by foot). Might be busy at lunchtime.
-- Other snacks and restaurant (mostly Indian and Vietnamese food) can be found on further North on Barer Straße, in front of the Neue Pinakothek.
+- Other snacks and restaurant can be found on further North on Barer Straße, in front of the Neue Pinakothek on further west on Gabelbergerstraße.
