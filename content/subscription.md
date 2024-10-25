@@ -32,7 +32,7 @@ To validate the class and get the credits, you need to sign up to the class on t
 
   </div>
 </div>
-
+<!-- 
 ## 3. Sign up to the moodle platform
 
 The moodle platform is open to both HM and HMTM students. It is **not** an administrative platform, but tool to exchange between students and teachers.
@@ -46,7 +46,7 @@ It is meant to gather all institutional emails, submit and collect assigments, a
 NB: You can subscribe with and without HM credentials. Just select *DFN-AAI/eduGAIN* if you are not an HM student.
 <div class="column">
   <img src="{{ '/assets/images/subscription_tuto.png' | relative_url }}" alt="HM logo">
-  </div>
+  </div> -->
 
 
 

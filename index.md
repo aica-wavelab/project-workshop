@@ -121,6 +121,11 @@ The 100 points will then be converted to the German grading system according to 
 
 We encourage students to extend and capitalize on their projects to derive a bachelor or master thesis.
 
+## Where can I work with my team outside of the course days?
+
+It is possible to benefit the infrastructure and tools of the [Creatif Center](https://hff-muc.de/de_DE/creatif-center-home) from the the [Hochschule für Fernsehen und Film](https://hff-muc.de) München. We will communicate you the access details during the course.
+<img src="assets/images/logos/creatif_center.png" alt="Creatif Center" width="30%" style="display: block; margin-left: auto; margin-right: auto;">
+
 ## Tools and tutorials
 
 Many **open-source tools and libraries** developed by talented researchers and developers will help you implement your project without re-inventing the wheel. 
