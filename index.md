@@ -19,6 +19,8 @@ permalink: /
 ## 📰 Announcements
 {: .no_toc }
 
+25.11.2024 - 2nd block of the project workshop starting on the 11th of December, at the Wavelab.
+
 07.11.2024 - [Project planning spreasheet!](https://docs.google.com/spreadsheets/d/1BcliYrTlq2AoQn6ufqnvtvbGkdUGOhwhi3VsVmDeYrk/edit?gid=0#gid=0)
 
 02.09.2024 - The 2nd edition of the project workshop will be starting over in the Winter Semester 2024. Please enroll to the course in [Subscription](/content/subscription) section.
