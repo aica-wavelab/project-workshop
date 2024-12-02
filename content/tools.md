@@ -8,6 +8,10 @@ nav_order: 11
 
 # Generalist tool for ML
 
+[ComfyUI](https://www.comfy.org/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+
+ComfyUI is a node-based graphical tool for composing and building AI pipelines.
+
 [Marcelle](https://marcelle.dev/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 Marcelle is a modular open source toolkit for programming interactive machine learning applications. Marcelle is built around components embedding computation and interaction that can be composed to form reactive machine learning pipelines and custom user interfaces. This architecture enables rapid prototyping and extension. Marcelle can be used to build interfaces to Python scripts, and it provides flexible data stores to facilitate collaboration between machine learning experts, designers and end users.
