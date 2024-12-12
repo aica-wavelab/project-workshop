@@ -19,7 +19,9 @@ permalink: /
 ## 📰 Announcements
 {: .no_toc }
 
-12.12.2024 - Refresh your mind about the [module description](/assets/pdf/project_framework_aica2024.pdf) and [the project framework](/assets/pdf/project_framework_aica2024.pdf) we presented on the second day.
+12.12.2024 - **Next assignemnt for block 3 in january** : Prepare a new presentation of your project. It should be prepared as a rehearsal of your final presentation. Please explain your project's outcomes clearly, its dissemination plan (how are you going to communicate it outside of the class), and the relevance of your project for the cultural and artistic domains.
+
+12.12.2024 - Refresh your mind about the [module description](/project-workshop/assets/pdf/project_framework_aica2024.pdf) and [the project framework](/project-workshop/assets/pdf/project_framework_aica2024.pdf) we presented on the second day.
 
 07.11.2024 - [Project planning spreasheet!](https://docs.google.com/spreadsheets/d/1BcliYrTlq2AoQn6ufqnvtvbGkdUGOhwhi3VsVmDeYrk/edit?gid=0#gid=0)
 
@@ -51,11 +53,11 @@ You will form **a team with students from HM and HMTM** with complementary exper
 
 You will be accompanied **on site** by technology and culture experts, and coached with [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) practices.
 
-[Module presentation](/assets/pdf/module_introduction_aica2024.pdf){: .btn target="_blank"}
+[Module presentation](/project-workshop/assets/pdf/module_introduction_aica2024.pdf){: .btn target="_blank"}
 
 ## What is a good project?
 
-[Framework and guidelines](/assets/pdf/project_framework_aica2024.pdf){: .btn target="_blank"}
+[Framework and guidelines](/project-workshop/assets/pdf/project_framework_aica2024.pdf){: .btn target="_blank"}
 
 ## Provisional schedule
 
