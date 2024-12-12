@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Subscription
-nav_exclude: false
+nav_exclude: true
 nav_order: 1
+show: false
 ---
 
 #  **Enroll now! 💥**
