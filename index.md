@@ -19,6 +19,8 @@ permalink: /
 ## 📰 Announcements
 {: .no_toc }
 
+12.12.2024 - Refresh your mind about the [module description](/assets/pdf/project_framework_aica2024.pdf) and [the project framework](/assets/pdf/project_framework_aica2024.pdf) we presented on the second day.
+
 07.11.2024 - [Project planning spreasheet!](https://docs.google.com/spreadsheets/d/1BcliYrTlq2AoQn6ufqnvtvbGkdUGOhwhi3VsVmDeYrk/edit?gid=0#gid=0)
 
 02.09.2024 - The 2nd edition of the project workshop will be starting over in the Winter Semester 2024. Please enroll to the course in [Subscription](/content/subscription) section.
@@ -66,13 +68,17 @@ The Digitization College "Artificial Intelligence in Culture and Arts" (AICA) ai
 The AICA Project Workshop will be hosted at the Wavelab, in the Winter Semester 2024/2025 **starting early November 2024**.
 This course will teach you how to build and apply AI and machine learning for the cultural and artistic domains.
 
-
-
 You will develop **your own project** at the interface of AI in art and culture, spanning from an intelligent or interactive tool, an artistic performance, or anything in between that applies to the creative and cultural industries.
 
 You will form **a team with students from HM and HMTM** with complementary expertise: computer science, data science, design, music, theater, or cultural management. 
 
 You will be accompanied **on site** by technology and culture experts, and coached with [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) practices.
+
+[Module presentation](/assets/pdf/module_introduction_aica2024.pdf){: .btn target="_blank"}
+
+## What is a good project?
+
+[Framework and guidelines](/assets/pdf/project_framework_aica2024.pdf){: .btn target="_blank"}
 
 ## Provisional schedule
 
@@ -127,6 +133,8 @@ We encourage students to extend and capitalize on their projects to derive a bac
 
 It is possible to benefit the infrastructure and tools of the [Creatif Center](https://hff-muc.de/de_DE/creatif-center-home) from the the [Hochschule für Fernsehen und Film](https://hff-muc.de) München. We will communicate you the access details during the course.
 <img src="assets/images/logos/creatif_center.png" alt="Creatif Center" width="30%" style="display: block; margin-left: auto; margin-right: auto;">
+
+
 
 ## Tools and tutorials
 
