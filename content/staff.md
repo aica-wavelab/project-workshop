@@ -12,6 +12,7 @@ nav_order: 10
 {{ staffer }}
 {% endfor %}
 
+<!--
 # Scientific instructors
 
 Scientific instructors prepared the technical content hosted on this website. They can guide you through the tutorials and your final project implementation.
@@ -20,6 +21,7 @@ Scientific instructors prepared the technical content hosted on this website. Th
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+-->
 
 # Art and culture instructors
 
@@ -40,7 +42,7 @@ External artists and experts will give lectures and be available on-site to advi
 {{ staffer }}
 {% endfor %}
 
-
+<!--
 # Teaching assistants
 
 Students from HM and HMTM will also be present on-site to help organizing the course. 
@@ -49,6 +51,7 @@ Students from HM and HMTM will also be present on-site to help organizing the co
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
+-->
 
 <!-- 
 # Lecturers
