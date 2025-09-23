@@ -5,7 +5,6 @@ description: Tools and resources to support your project
 nav_order: 11
 ---
 
-
 # Generalist tool for ML
 
 [ComfyUI](https://www.comfy.org/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}

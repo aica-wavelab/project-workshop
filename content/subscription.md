@@ -8,13 +8,14 @@ show: false
 
 #  **Enroll now! 💥**
 
+<!--
 Please follow these steps to enroll in the class.
 
+
 ## 1. Express your interest
+ -->
 
-Express your interest to Dr. Téo Sanchez directly ([teo [dot] sanchez [at] hm [dot] edu](mailto:teo.sanchez@hm.edu)) with a **short** motivation statement.
-
-## 2. Sign up on the administrative platform of your university 
+## Sign up on the administrative platform of your university 
 
 To validate the class and get the credits, you need to sign up to the class on the administrative platform of your university.
 
@@ -33,6 +34,11 @@ To validate the class and get the credits, you need to sign up to the class on t
 
   </div>
 </div>
+
+If there are any problems you can also register via mail to Mariya Dzhimova directly ([mariya [dot] dzhimova [at] hm [dot] edu](mailto:teo.mariya.dzhimova@hm.edu)).
+HM students from the faculty of computer science and mathematics or other HM students may want to use this option. Everyone is welcomed!
+
+
 <!-- 
 ## 3. Sign up to the moodle platform
 
@@ -47,9 +53,8 @@ It is meant to gather all institutional emails, submit and collect assigments, a
 NB: You can subscribe with and without HM credentials. Just select *DFN-AAI/eduGAIN* if you are not an HM student.
 <div class="column">
   <img src="{{ '/assets/images/subscription_tuto.png' | relative_url }}" alt="HM logo">
-  </div> -->
-
-
+  </div> 
+-->
 
 <!-- 
 #  Who can participate? 

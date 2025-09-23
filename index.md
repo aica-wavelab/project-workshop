@@ -19,13 +19,14 @@ permalink: /
 ## 📰 Announcements
 {: .no_toc }
 
+<!--
 12.12.2024 - **Next assignemnt for block 3 in january** : Prepare a new presentation of your project. It should be prepared as a rehearsal of your final presentation. Please explain your project's outcomes clearly, its dissemination plan (how are you going to communicate it outside of the class), and the relevance of your project for the cultural and artistic domains.
 
 12.12.2024 - Refresh your mind about the [module description](/project-workshop/assets/pdf/module_introduction_aica2024.pdf) and [the project framework](/project-workshop/assets/pdf/project_framework_aica2024.pdf) we presented on the second day.
 
 07.11.2024 - [Project planning spreasheet!](https://docs.google.com/spreadsheets/d/1BcliYrTlq2AoQn6ufqnvtvbGkdUGOhwhi3VsVmDeYrk/edit?gid=0#gid=0)
 
-
+ -->
 ---
 
 ## Table of contents
@@ -44,14 +45,17 @@ The Digitization College "Artificial Intelligence in Culture and Arts" (AICA) ai
 
 ## What is the project workshop ?
 
-The AICA Project Workshop will be hosted at the Wavelab, in the Winter Semester 2024/2025 **starting early November 2024**.
-This course will teach you how to build and apply AI and machine learning for the cultural and artistic domains.
+In the AICA Project Workshop, students from HMTM and HM will work in interdisciplinary teams to develop their own projects and ideas on the use of AI technologies in art, culture, and the creative industries. The course aims to equip students with the skills to actively shape AI-based processes in various artistic and creative fields, as well as to drive AI innovations in the cultural and creative industries.
+
+At the beginning of the course (**starting on the 5th of November**), the teams will receive input from various experts on AI applications in music, film and media, visual arts, exhibition practices, and curating. The students will then engage in the creative processes of idea development and implementation.
+
+The external experts Dr. Esther Fee Reinhardt (AI in music), Christoph Weber (film & media), Pauline Leininger (film & media), Max Haarich (visual arts), Maren Burghard (exhibition practices, curating), as well as experts from the AICA team (Mariya Dzhimova and Helena Held) will be present to accompany and support the projects. Furthermore Jule Schröder will support you in her role as agile coach.
 
 You will develop **your own project** at the interface of AI in art and culture, spanning from an intelligent or interactive tool, an artistic performance, or anything in between that applies to the creative and cultural industries.
 
 You will form **a team with students from HM and HMTM** with complementary expertise: computer science, data science, design, music, theater, or cultural management. 
 
-You will be accompanied **on site** by technology and culture experts, and coached with [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) practices.
+In summary, you will **form a team** with students from HM and HMTM and **develop your own project** accompanied **on site** by technology and culture experts, and coached with [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) practices.
 
 [Module presentation](/project-workshop/assets/pdf/module_introduction_aica2024.pdf){: .btn target="_blank"}
 
@@ -63,27 +67,32 @@ You will be accompanied **on site** by technology and culture experts, and coach
 
 Block 1:
 
-- 6th of November 2024 at MUC.DAI  (Infanteriestraße 13, 80797 München, Room N.017)
-- 7th of November 2024 at MUC.DAI  (Infanteriestraße 13, 80797 München, Room N.017)
+- 5th of November 2025 at the Wavela, 10 am until 4 pm (Barerstraße 19, 80333 München)
+- 6th of November 2025 at the Wavela, 10 am until 4 pm (Barerstraße 19, 80333 München)
 
 Block 2:
 
-- 11th of December 2024 at the Wavelab (Barerstraße 19, 80333 München)
-- 12th of December 2024 at the Wavelab (Barerstraße 19, 80333 München)
+- 3rd of December 2025 at the Wavelab, 10 am until 4 pm (Barerstraße 19, 80333 München)
+- 4th of December 2025 at the Wavelab, 10 am until 4 pm (Barerstraße 19, 80333 München)
 
 Block 3:
 
-- 8th of January 2025 at the Wavelab (Barerstraße 19, 80333 München)
-- 9th of January 2025 at the Wavelab (Barerstraße 19, 80333 München)
+- 7th of January 2026 at the Wavelab (Barerstraße 19, 80333 München)
+- 8th of January 2026 at the Wavelab (Barerstraße 19, 80333 München)
 
 Final event:
 
-- 30th of January 2025 at MUC.DAI  (Infanteriestraße 13, 80797 München, Room N.017)
+- 12th of February 2026 at MUC.DAI (Barerstraße 19, 80333 München)
 
 ## Evaluation and ECTS
 
 You will earn **6 ECTS** for the validation of the course.
+**Attendance** counts as an examination achievement and the teams will give a joint presentation on the projects they have developed at the end. There is also the opportunity to expand projects as part of a Bachelor's/Master's thesis and---who knows---maybe there will be a spin-off or two.
+If you have an idea that you would like to implement, you are of course welcome to bring it to the course.
 
+<!-- The following was Téo's plan which was good but I don't know if we can manage that again. -->
+
+<!-- 
 The evaluation will be based on 100 points, distributed as follows:
 - 30 points for the careful completion of the assignements between blocks;
 - 20 points for the final presentation, on the 30th of January 2025: oral presence, slides quality, and clarity of the outcomes and dissemination;
@@ -107,13 +116,12 @@ The 100 points will then be converted to the German grading system according to 
 | Below 50   | 5.0           | Fail (Nicht ausreichend)    |
 
 We encourage students to extend and capitalize on their projects to derive a bachelor or master thesis.
+-->
 
 ## Where can I work with my team outside of the course days?
 
 It is possible to benefit the infrastructure and tools of the [Creatif Center](https://hff-muc.de/de_DE/creatif-center-home) from the the [Hochschule für Fernsehen und Film](https://hff-muc.de) München. We will communicate you the access details during the course.
 <img src="assets/images/logos/creatif_center.png" alt="Creatif Center" width="30%" style="display: block; margin-left: auto; margin-right: auto;">
-
-
 
 ## Tools and tutorials
 

@@ -16,6 +16,11 @@ function copyToClipboard(text) {
 }
 </script>
 
+
+<!-- MUC.DAI is not required this time -->
+
+<!-- 
+
 The course will take place in two different locations: [Munich Center for Digital Sciences and Artificial Intelligence (MUC.DAI)](https://mucdai.hm.edu/index.de.html) and the [Wavelab](https://www.wavelab.io/). Below you will find the addresses and directions to both locations.
 
 #  MUC.DAI
@@ -50,8 +55,11 @@ The course will take place in two different locations: [Munich Center for Digita
 - [Student's MENSA Lothstraße](https://maps.app.goo.gl/bLjFKFkPje9dgtJq5): The closest student's MENSA (13min by foot). Might be busy at lunchtime.
 - You can also find snacks on Dachauer Straße but be aware that they might be busy at lunchtime. Please don't be late in the afternoon.
 
+-->
 
 #  Wavelab
+
+The course will take place at the [Wavelab](https://www.wavelab.io/).
 
 {: .note-title }
 > Address

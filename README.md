@@ -17,19 +17,25 @@ The Digitization College "Artificial Intelligence in Culture and Arts" (AICA) ai
 
 ## What is the project workshop ?
 
-The AICA Project Workshop will be hosted at the Wavelab, in the Winter Semester 2023/2024 **starting November 2023**.
-This course will teach you how to build and apply AI and machine learning for the cultural and artistic domains.
 
-You will develop **your own project** about AI for arts and culture, spanning from an intelligent or interactive tool, an artistic performance, or anything in between that applies to the creative and cultural industries.
+In the AICA Project Workshop, students from HMTM and HM will work in interdisciplinary teams to develop their own projects and ideas on the use of AI technologies in art, culture, and the creative industries. The course aims to equip students with the skills to actively shape AI-based processes in various artistic and creative fields, as well as to drive AI innovations in the cultural and creative industries.
+
+At the beginning of the course (**starting on the 5th of November**), the teams will receive input from various experts on AI applications in music, film and media, visual arts, exhibition practices, and curating. The students will then engage in the creative processes of idea development and implementation.
+
+The external experts Dr. Esther Fee Reinhardt (AI in music), Christoph Weber (film & media), Pauline Leininger (film & media), Max Haarich (visual arts), Maren Burghard (exhibition practices, curating), as well as experts from the AICA team (Mariya Dzhimova and Helena Held) will be present to accompany and support the projects. Furthermore Jule Schröder will support you in her role as agile coach.
+
+You will develop **your own project** at the interface of AI in art and culture, spanning from an intelligent or interactive tool, an artistic performance, or anything in between that applies to the creative and cultural industries.
 
 You will form **a team with students from HM and HMTM** with complementary expertise: computer science, data science, design, music, theater, or cultural management. 
 
-You will be accompanied **on site** by technology and culture experts, and coached with [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) practices.
+In summary, you will **form a team** with students from HM and HMTM and **develop your own project** accompanied **on site** by technology and culture experts, and coached with [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) practices.
 
 ## Tutorials
 
 This website provides a large range of tutorials and ressources, organized by topic and difficulty. 
 **Feel free to use and adapt any of the ressources to implement your project !**
+
+<!--
 
 ## Evaluation and ECTS
 
@@ -46,6 +52,8 @@ We highly encourage students to extend and capitalize on their projects to deriv
 The tutorial are based on several **open-source tools and libraries** developed by talented researchers and developers. Without them, this course would not be possible. 
 
 TODO: credit attribution
+
+-->
 
 ## License
 
