@@ -82,7 +82,7 @@ Block 3:
 
 Final event:
 
-- 12th of February 2026 at MUC.DAI, 1 until 4:30 pm (Barerstraße 19, 80333 München)
+- 12th of February 2026  at the Wavelab, 1:00 pm until 4:30 pm (Barerstraße 19, 80333 München)
 
 ## Evaluation and ECTS
 
