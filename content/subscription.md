@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Subscription
-nav_exclude: true
+nav_exclude: false
 nav_order: 1
 show: true
 ---
