@@ -3,7 +3,7 @@ layout: default
 title: Subscription
 nav_exclude: true
 nav_order: 1
-show: false
+show: true
 ---
 
 #  **Enroll now! 💥**
@@ -13,30 +13,13 @@ Please follow these steps to enroll in the class.
 
 
 ## 1. Express your interest
- -->
 
 ## Sign up on the administrative platform of your university 
+ -->
 
-To validate the class and get the credits, you need to sign up to the class on the administrative platform of your university.
+Register directly via mail to Mariya Dzhimova ([mariya [dot] dzhimova [at] hm [dot] edu](mailto:mariya.dzhimova@hm.edu)).
 
-<div class="columns">
-  <div class="column">
-    <h4>Hochschule München University of applied sciences</h4>
-    <img src="{{ '/assets/images/logos/hm_logo.png' | relative_url }}" alt="HMTM Logo">
-    <a href="https://nine.hm.edu/" class="btn fs-5 mb-4 mb-md-0 mr-2" target="_blank">Sign up on Nine</a>
-
-  </div>
-  <div class="column">
-    <h4>Hochschule für Musik und Theater München</h4>
-    <img src="{{ '/assets/images/logos/hmtm_logo.png' | relative_url }}" alt="HM logo">
-        <a href="https://ecampus.musikhochschule-muenchen.de/" class="btn fs-5 mb-4 mb-md-0 mr-2" target="_blank">Sign up on eCampus</a>
-
-
-  </div>
-</div>
-
-If there are any problems you can also register via mail to Mariya Dzhimova directly ([mariya [dot] dzhimova [at] hm [dot] edu](mailto:teo.mariya.dzhimova@hm.edu)).
-HM students from the faculty of computer science and mathematics or other HM students may want to use this option. Everyone is welcomed!
+To validate the class and get the credits / grade, HM students must register for the exam in *PRIMUSS*.
 
 
 <!-- 
