@@ -61,7 +61,11 @@ In summary, you will **form a team** with students from HM and HMTM and **develo
 
 ## What is a good project?
 
-[Framework and guidelines](/project-workshop/assets/pdf/project_framework_aica2024.pdf){: .btn target="_blank"}
+[Framework and guidelines](/project-workshop/assets/pdf/project_framework_aica2025.pdf){: .btn target="_blank"}
+
+## What is artificial intelligence?
+
+[Introduction to AI and ML](/project-workshop/assets/pdf/introduction_to_AI_2025.pdf){: .btn target="_blank"}
 
 ## Provisional schedule
 
