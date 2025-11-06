@@ -69,7 +69,7 @@ Designed for a non-technical audience in the arts and cultural sector, this pres
 
 [Framework and guidelines](/project-workshop/assets/pdf/project_framework_aica2025.pdf){: .btn target="_blank"}
 
-[Assignment List](/project-workshop/assets/excel/assignment_list.xlsx){: .btn target="_blank"}
+[Assignment List](https://docs.google.com/spreadsheets/d/1SLIMYA2oABZvTsI7cWIwiWt1wehED3mX/edit?usp=drive_link&ouid=102588962245347726890&rtpof=true&sd=true){: .btn target="_blank"}
 
 ## Provisional schedule
 
