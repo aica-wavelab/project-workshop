@@ -61,7 +61,7 @@ In summary, you will **form a team** with students from HM and HMTM and **develo
 
 ## What is artificial intelligence?
 
-[Introduction to AI and ML](/project-workshop/assets/pdf/introduction_to_AI_2025.pdf){: .btn target="_blank"
+[Introduction to AI and ML](/project-workshop/assets/pdf/introduction_to_AI_2025.pdf){: .btn target="_blank"}
 
 Designed for a non-technical audience in the arts and cultural sector, this presentation introduces what intelligence means in humans and machines, when and how learning becomes possible, and how computers actually learn from data. We will explore the principles behind modern AI---from neurons and learning algorithms to training models---and discuss how humans can shape, guide, and interact with learning systems. By the end, participants will hopefully have a grounded intuition of AI concepts and feel better equipped to engage creatively and critically with intelligent technologies.
 
