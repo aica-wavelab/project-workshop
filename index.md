@@ -57,15 +57,17 @@ You will form **a team with students from HM and HMTM** with complementary exper
 
 In summary, you will **form a team** with students from HM and HMTM and **develop your own project** accompanied **on site** by technology and culture experts, and coached with [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) practices.
 
-[Module presentation](/project-workshop/assets/pdf/module_introduction_aica2024.pdf){: .btn target="_blank"}
+[Module presentation](/project-workshop/assets/pdf/module_introduction_aica2025.pdf){: .btn target="_blank"}
+
+## What is artificial intelligence?
+
+[Introduction to AI and ML](/project-workshop/assets/pdf/introduction_to_AI_2025.pdf){: .btn target="_blank"}
 
 ## What is a good project?
 
 [Framework and guidelines](/project-workshop/assets/pdf/project_framework_aica2025.pdf){: .btn target="_blank"}
 
-## What is artificial intelligence?
-
-[Introduction to AI and ML](/project-workshop/assets/pdf/introduction_to_AI_2025.pdf){: .btn target="_blank"}
+[Assignment List](/project-workshop/assets/excel/assignment_list.xlsx){: .btn target="_blank"}
 
 ## Provisional schedule
 
