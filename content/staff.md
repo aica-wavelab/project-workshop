@@ -12,7 +12,7 @@ nav_order: 10
 {{ staffer }}
 {% endfor %}
 
-<!--
+
 # Scientific instructors
 
 Scientific instructors prepared the technical content hosted on this website. They can guide you through the tutorials and your final project implementation.
@@ -21,8 +21,8 @@ Scientific instructors prepared the technical content hosted on this website. Th
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
--->
 
+<!-- 
 # Art and culture instructors
 
 Artistic instructors can guide you through the artistic and cultural aspects of your project.
@@ -31,7 +31,7 @@ Artistic instructors can guide you through the artistic and cultural aspects of 
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
-
+-->
 
 # Lecturers and consultants
 

@@ -47,7 +47,7 @@ The Digitization College "Artificial Intelligence in Culture and Arts" (AICA) ai
 
 In the AICA Project Workshop, students from HMTM and HM will work in interdisciplinary teams to develop their own projects and ideas on the use of AI technologies in art, culture, and the creative industries. The course aims to equip students with the skills to actively shape AI-based processes in various artistic and creative fields, as well as to drive AI innovations in the cultural and creative industries.
 
-At the beginning of the course (**starting on the 5th of November**), the teams will receive input from various experts on AI applications in music, film and media, visual arts, exhibition practices, and curating. The students will then engage in the creative processes of idea development and implementation.
+At the beginning of the course (**starting on the 22nd of October**), the teams will receive input from various experts on AI applications in music, film and media, visual arts, exhibition practices, and curating. The students will then engage in the creative processes of idea development and implementation.
 
 The external experts Dr. Esther Fee Reinhardt (AI in music), Christoph Weber (film & media), Pauline Leininger (film & media), Max Haarich (visual arts), Maren Burghard (exhibition practices, curating), as well as experts from the AICA team (Mariya Dzhimova and Helena Held) will be present to accompany and support the projects. Furthermore Jule Schröder will support you in her role as agile coach.
 
@@ -55,7 +55,7 @@ You will develop **your own project** at the interface of AI in art and culture,
 
 You will form **a team with students from HM and HMTM** with complementary expertise: computer science, data science, design, music, theater, or cultural management. 
 
-In summary, you will **form a team** with students from HM and HMTM and **develop your own project** accompanied **on site** by technology and culture experts, and coached with [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) practices.
+In summary, you will **form a team** with students from HM and HMTM and **develop your own project** accompanied **on site** by technology and culture experts.
 
 [Module presentation](/project-workshop/assets/pdf/module_introduction_aica2025.pdf){: .btn target="_blank"}
 
@@ -69,28 +69,28 @@ Designed for a non-technical audience in the arts and cultural sector, this pres
 
 [Framework and guidelines](/project-workshop/assets/pdf/project_framework_aica2025.pdf){: .btn target="_blank"}
 
-[Assignment List](https://docs.google.com/spreadsheets/d/1SLIMYA2oABZvTsI7cWIwiWt1wehED3mX/edit?usp=drive_link&ouid=102588962245347726890&rtpof=true&sd=true){: .btn target="_blank"}
+[Assignment List (TBA)](){: .btn target="_blank"}
 
 ## Provisional schedule
 
 Block 1:
 
-- 5th of November 2025 at the Wavela, 10 am until 4 pm (Barerstraße 19, 80333 München)
-- 6th of November 2025 at the Wavela, 10 am until 4 pm (Barerstraße 19, 80333 München)
+- 22nd of October 2026 at the Wavela, 10 am until 4 pm (Barerstraße 19, 80333 München)
+- 23th of October 2026 at the Wavela, 10 am until 4 pm (Barerstraße 19, 80333 München)
 
 Block 2:
 
-- 3rd of December 2025 at the Wavelab, 10 am until 4 pm (Barerstraße 19, 80333 München)
-- 4th of December 2025 at the Wavelab, 10 am until 4 pm (Barerstraße 19, 80333 München)
+- 11th of November 2026 at the Wavelab, 10 am until 4 pm (Barerstraße 19, 80333 München)
+- 12th of November 2026 at the Wavelab, 10 am until 4 pm (Barerstraße 19, 80333 München)
 
 Block 3:
 
-- 7th of January 2026 at the Wavelab, 10 am until 4 pm (Barerstraße 19, 80333 München)
-- 8th of January 2026 at the Wavelab, 10 am until 4 pm (Barerstraße 19, 80333 München)
+- 9th of December 2026 at the Wavelab, 10 am until 4 pm (Barerstraße 19, 80333 München)
+- 10th of December 2026 at the Wavelab, 10 am until 4 pm (Barerstraße 19, 80333 München)
 
 Final event:
 
-- 12th of February 2026  at the Wavelab, 1:00 pm until 4:30 pm (Barerstraße 19, 80333 München)
+- 21st of January 2026  at the Wavelab, 1:00 pm until 4:30 pm (Barerstraße 19, 80333 München)
 
 ## Evaluation and ECTS
 
