@@ -11,4 +11,4 @@ Please find the provisional schedule of the course below.
 
 <!-- [Download provisional schedule](https://aica-wavelab.github.io/project-workshop/assets/pdf/preliminary_schedule.pdf){: .btn .btn-primary target="_blank"} -->
 
-<embed src="https://aica-wavelab.github.io/project-workshop/assets/pdf/preliminary program_AICA_Workshop_2026_27.pdf" type="application/pdf" width="100%" height="850px">
+<embed src="https://aica-wavelab.github.io/project-workshop/assets/pdf/preliminary_program_AICA_Workshop_2026_27.pdf" type="application/pdf" width="100%" height="850px">
