@@ -1,5 +1,5 @@
 ---
-name: David Goldberg
+name: Daniela Vogel
 role: Lecturers and consultants
 website: https://berlindesignweek.com/?speaker=daniela-vogel
 photo: people/daniela-vogel.png

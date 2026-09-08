@@ -1,5 +1,5 @@
 ---
-name: David Goldberg
+name: Diana Alina Serbanescu
 role: Lecturers and consultants
 website: https://www.zhdk.ch/person/diana-alina-serbanescu-498899
 photo: people/diana-alina-serbanescu.png
