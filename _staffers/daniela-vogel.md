@@ -5,4 +5,4 @@ website: https://berlindesignweek.com/?speaker=daniela-vogel
 photo: people/daniela-vogel.png
 ---
 
-Daniela Vogel ist Designerin bei Stan Hema und verbindet Brand Design, Motion Design und digitale Medien mit einer Neugier für KI und generatives Gestalten. Sie entwickelt visuell expressive Designsysteme und Grafik Tools für Marken. In Projekten unter anderem für die Deutsche Oper Berlin, den Bayerischen Rundfunk und die GLS Bank verbindet sie gestalterische Qualität mit technischer Exploration.
+Daniela Vogel is a designer at Stan Hema, combining brand design, motion design, and digital media with a curiosity for AI and generative design. She develops visually expressive design systems and graphic tools for brands. In projects for, among others, the Deutsche Oper Berlin, the Bayerischer Rundfunk, and GLS Bank, she combines design quality with technical exploration.
